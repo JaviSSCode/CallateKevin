@@ -8,7 +8,7 @@ null,
 {"id":6,"expanded":true,"name":"Introdevent","order":4,"parentId":3,"scrollX":434,"scrollY":888.6666666666666},
 {"id":7,"expanded":true,"name":"Carretera","order":5,"parentId":0,"scrollX":1757.3333333333333,"scrollY":968},
 {"id":8,"expanded":true,"name":"zona perdida evento","order":6,"parentId":7,"scrollX":659,"scrollY":371},
-{"id":9,"expanded":true,"name":"zona perdida","order":7,"parentId":7,"scrollX":832,"scrollY":640},
-{"id":10,"expanded":true,"name":"zona perdida2","order":8,"parentId":7,"scrollX":832,"scrollY":640},
+{"id":9,"expanded":true,"name":"zona perdida","order":7,"parentId":7,"scrollX":790.8,"scrollY":445.2},
+{"id":10,"expanded":true,"name":"zona perdida2","order":8,"parentId":7,"scrollX":988.5,"scrollY":556.5},
 {"id":11,"expanded":false,"name":"Cole aparcamiento","order":9,"parentId":7,"scrollX":1284,"scrollY":544.5}
 ]
