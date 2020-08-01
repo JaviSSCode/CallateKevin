@@ -1,14 +1,14 @@
 [
 null,
-{"id":1,"expanded":true,"name":"Intro","order":1,"parentId":0,"scrollX":659,"scrollY":371},
-{"id":2,"expanded":true,"name":"Salón del manga","order":10,"parentId":0,"scrollX":659,"scrollY":371},
-{"id":3,"expanded":true,"name":"Introd","order":2,"parentId":0,"scrollX":1757.3333333333333,"scrollY":989.3333333333334},
-{"id":4,"expanded":false,"name":"Mercadona1","order":3,"parentId":3,"scrollX":1757.3333333333333,"scrollY":989.3333333333334},
+{"id":1,"expanded":true,"name":"Intro","order":1,"parentId":0,"scrollX":790.8,"scrollY":445.2},
+{"id":2,"expanded":true,"name":"Salón del manga","order":10,"parentId":0,"scrollX":790.8,"scrollY":445.2},
+{"id":3,"expanded":true,"name":"Introd","order":2,"parentId":0,"scrollX":781.1999999999999,"scrollY":445.2},
+{"id":4,"expanded":false,"name":"Mercadona1","order":3,"parentId":3,"scrollX":781.1999999999999,"scrollY":445.2},
 {"id":5,"expanded":false,"name":"Salón interior","order":11,"parentId":2,"scrollX":718.909090909091,"scrollY":404.72727272727275},
-{"id":6,"expanded":true,"name":"Introdevent","order":4,"parentId":3,"scrollX":434,"scrollY":888.6666666666666},
-{"id":7,"expanded":true,"name":"Carretera","order":5,"parentId":0,"scrollX":1757.3333333333333,"scrollY":968},
+{"id":6,"expanded":true,"name":"Introdevent","order":4,"parentId":3,"scrollX":781.1999999999999,"scrollY":889.1999999999999},
+{"id":7,"expanded":true,"name":"Carretera","order":5,"parentId":0,"scrollX":790.8,"scrollY":435.59999999999997},
 {"id":8,"expanded":true,"name":"zona perdida evento","order":6,"parentId":7,"scrollX":659,"scrollY":371},
 {"id":9,"expanded":true,"name":"zona perdida","order":7,"parentId":7,"scrollX":790.8,"scrollY":445.2},
 {"id":10,"expanded":true,"name":"zona perdida2","order":8,"parentId":7,"scrollX":988.5,"scrollY":556.5},
-{"id":11,"expanded":false,"name":"Cole aparcamiento","order":9,"parentId":7,"scrollX":1284,"scrollY":544.5}
+{"id":11,"expanded":false,"name":"Cole aparcamiento","order":9,"parentId":7,"scrollX":1284,"scrollY":435.59999999999997}
 ]
