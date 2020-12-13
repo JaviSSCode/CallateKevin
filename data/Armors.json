@@ -12,9 +12,9 @@ null,
 {"id":10,"atypeId":0,"description":"","etypeId":4,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"Ropa Friegaplatos","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":11,"atypeId":3,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"Riñonera","note":"","params":[0,0,0,0,0,0,0,0],"price":20},
 {"id":12,"atypeId":3,"description":"","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"Bandana de Naruto","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":13,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":14,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":15,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
-{"id":16,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":13,"atypeId":0,"description":"Javi pareces gilipollas","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"Gorra de ness","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":14,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"Gorra cani","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":15,"atypeId":0,"description":"Pendientes de chico mayor","etypeId":5,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"Pendientes de malote","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
+{"id":16,"atypeId":0,"description":"No se lo ha visto","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"Sudadera GOT","note":"","params":[0,0,0,0,0,0,0,0],"price":0},
 {"id":17,"atypeId":0,"description":"","etypeId":2,"traits":[{"code":22,"dataId":1,"value":0}],"iconIndex":0,"name":"","note":"","params":[0,0,0,0,0,0,0,0],"price":0}
 ]
